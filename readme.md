@@ -20,4 +20,4 @@ $ cd desafio_tecnico
 ```bash
 $ node index.js
 ```
-Agora, você pode utilizar da função **return_number_sum** no arquivo **index.js**, onde ela foi importada. Basta alternar o valor do número que foi passado para ela que o valor será printado na tela. O valor inicial passado foi 10. Por isso, você receberá o número 23 quando rodar o código sem alterá-lo pela primeira vez.
+Agora, você pode utilizar da função **return_number_sum** no arquivo **index.js**, onde ela foi importada. Basta alternar o valor do número que foi passado para ela que a soma será printado na tela. O valor inicial passado foi 10. Por isso, você receberá o número 23 quando rodar o código sem alterá-lo pela primeira vez.
