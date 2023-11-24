@@ -10,14 +10,14 @@ Antes de rodar o projeto, verifique se você atendeu aos seguintes requisitos:
 Para instalar o projeto, siga estas etapas:
 - Clone o repositório para sua máquina:
 ```bash
-git clone https://github.com/Catskhi/desafio_tecnico.git
+$ git clone https://github.com/Catskhi/desafio_tecnico.git
 ```
 - Vá para a pasta que você clonou o projeto, se estiver no terminal, pode utilizar:
 ```bash
-cd desafio_tecnico
+$ cd desafio_tecnico
 ```
 - Agora, basta rodar utilizando o comando:
 ```bash
-node index.js
+$ node index.js
 ```
-- Agora, você pode utilizar da função **return_number_sum** no arquivo **index.js**, onde ela foi importada. Basta alternar o valor do número que foi passado para ela que o valor será printado na tela. O valor inicial passado foi 10. Por isso, você receberá o número 23 quando rodar o código sem alterá-lo pela primeira vez.
+Agora, você pode utilizar da função **return_number_sum** no arquivo **index.js**, onde ela foi importada. Basta alternar o valor do número que foi passado para ela que o valor será printado na tela. O valor inicial passado foi 10. Por isso, você receberá o número 23 quando rodar o código sem alterá-lo pela primeira vez.
